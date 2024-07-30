@@ -1,0 +1,12 @@
+# Env files
+__pycache__
+.env
+
+# Data scraped from JS website like React, ViteJS..
+scraped_data.json
+
+# Chromium download
+chrome-win/*
+!chrome-win/readme-chrome-install.txt
+chrome_path.txt
+
